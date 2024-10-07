@@ -33,8 +33,9 @@
         background: transparent;
     } */
     .text-img figure img {
-        width: 95%;
-        height: 50% !important;
+        margin-top: 200px;
+        width: 60%;
+
    }
 }
 
@@ -89,6 +90,11 @@
     .text-img {
         padding-top: 30px;
     }
+    .text-img figure img {
+        margin-top: 200px;
+        width: 60%;
+
+   }
     .main_form {
         margin: 0;
     }
@@ -171,6 +177,11 @@
     .text-img {
         padding-top: 30px;
     }
+    .text-img figure img {
+        margin-top: 200px;
+        width: 60%;
+
+   }
     .titlepage h2 {
         font-size: 35px;
         line-height: 50px;
